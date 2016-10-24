@@ -10,7 +10,7 @@ CACHE:
 
 
 NETWORK:
-*
+
 
 OFFLINE
 ./index2.html
