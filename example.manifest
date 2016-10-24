@@ -8,3 +8,10 @@ CACHE:
 ./img/Rabbit.jpg
 ./script.js
 
+
+NETWORK:
+*
+
+OFFLINE
+./index2.html
+
